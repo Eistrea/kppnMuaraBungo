@@ -1,0 +1,108 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  width: 1170px
+  text-align: left;
+  color: white;
+}
+
+.main {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.main h2 {
+  color: black;
+}
+
+.footer p {
+  opacity: 0.7;
+}
+
+.navigasi a {
+  color: white;
+}
+
+body {
+  background: -webkit-linear-gradient(bottom, #2dbd6e, #a6f77b);
+  background-repeat: no-repeat;
+  color: white;
+  background-size: auto;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  border-radius: 4px;
+  opacity: 0.85;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  font-family: cursive;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+a {
+  text-decoration: none;
+}
+
+.abs {
+  background-color: #3797a4;
+}
+
+.evl {
+  background-color: #face7f;
+}
+
+.fb {
+  background-color: #2d46b9;
+}
+
+.ig {
+  background-color: #f037a5;
+}
+
+.yt {
+  background-color: #ff2442;
+}
+
+.btn-wrapper {
+  margin: 20px;
+}
+
+#card {
+  background: #fbfbfb;
+  border-radius: 8px;
+  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.75);
+  height: 410px;
+  margin: 1rem auto 10rem auto;
+  width: 700px;
+}
+
+#card-content {
+  padding: 12px 44px;
+}
+
+#card-title {
+  font-family: "Raleway Thin", sans-serif;
+  letter-spacing: 1px;
+  padding-bottom: 23px;
+  padding-top: 13px;
+  text-align: center;
+}
+
+.underline-title {
+  background: -webkit-linear-gradient(right, #a6f77b, #2ec06f);
+  height: 2px;
+  margin: -1.1rem auto 0 auto;
+  width: 600px;
+}
